@@ -27,6 +27,12 @@ gem 'coffee-rails', '~> 5.0'
 
 gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
 
+gem 'minitest-reporters', '~> 1.4', '>= 1.4.2'
+
+gem 'guard', '~> 2.14'
+
+gem 'guard-minitest', '~> 2.4', '>= 2.4.6'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
