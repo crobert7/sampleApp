@@ -33,6 +33,10 @@ gem 'guard', '~> 2.14'
 
 gem 'guard-minitest', '~> 2.4', '>= 2.4.6'
 
+gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
+
+gem 'rails-controller-testing', '~> 0.0.3'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
